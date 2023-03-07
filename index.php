@@ -4,7 +4,7 @@
   $results = array(
     '0' => array(
       'ON' => '1',
-      'Name' => 'Bame a',
+      'Name' => 'Bame A',
     ),
     '2' => array(
       'ON' => '2',
