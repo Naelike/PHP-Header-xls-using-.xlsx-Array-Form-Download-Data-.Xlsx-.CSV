@@ -1,6 +1,6 @@
-# PHP-Header-xls-using-.xlsx-Array-Form-Download-Data-.Xlsx-.CSV
+# PHP Header xls using .xlsx &amp; Array Form Download  Data .Xlsx .CSV
 
-PHP Header xls using .xlsx &amp; Array Form Download  Data .Xlsx .CSV
+สคริปต์ PHP สำหรับแปลงข้อมูลเป็นรูปแบบ Excel และเรียกใช้การดาวน์โหลด ตัวอย่างการทำงานและซอร์สโค้ดรวมถึงวิธีการส่งออกไปยัง Excel จาก SQL
 
 # Data Array Demo
 ```
